@@ -1,16 +1,14 @@
-### Hi there 👋
+### MyeongHwan Lee
+<p>
+ <img src="https://img.shields.io/badge/iOS-2E2E2E?style=flat-square&logo=apple&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/Swift-FF4000?style=flat-square&logo=swift&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>&nbsp
+</p>
 
-<!--
-**Gobans/Gobans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 애플 디벨로퍼 아카데미 (2022)
+- SW 마에스트로 14기 (2023)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+- 블로그: https://gobans.tistory.com
